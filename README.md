@@ -48,7 +48,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 10th March    | **Midterm**                                  |       |      |        |
 | 17th March    | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/List_Lab.ipynb)      |      |        |
 | 24th March    | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)    | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Function_Lab_1.ipynb)      |      |        |
-| 31st March    | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)    |       |      |        |
+| 31st March    | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)    | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Function_Lab_2.ipynb)      |      |        |
 | 7th  April    | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)         |       |      |        |
 | 18th/21th April    | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)       |       |      |        |
 | 25th/28th April    | AI and Building App                     |       |      |        |
