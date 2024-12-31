@@ -52,6 +52,6 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 7th  April    | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)         | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/String_Lab.ipynb)      |      |        |
 | 18th/21th April    | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)       | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Dictionary_Lab.ipynb)      |      |        |
 | 25th/28th April    | AI and Building App                     |       |      |        |
-| 2nd/5th April      | Second half Recap and Practice          | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(TH).ipynb) <br> [Lab (ENG)]()      |      |        |
+| 2nd/5th April      | Second half Recap and Practice          | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(TH).ipynb) <br> [Lab (ENG)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(ENG).ipynb)      |      |        |
 | 9th/12th May       | Final Preparation (on paper)                      |       |      |        |
 
