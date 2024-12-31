@@ -43,7 +43,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 3rd February  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   | [Link](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Decision_Structure_Lab.ipynb)       |      |        |
 | 10th February | [Repetition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)   | [Link](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Repetition_Structures_Lab.ipynb)       |      |        |
 | 17th February | [Repetition and List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)     |       |      |        |
-| 24th February | First half Practice                          |       |      |        |
+| 24th February | First half Recap and Practice                |       |      |        |
 | 3rd March     | Midterm Preperation                          |       |      |        |
 | 10th March    | **Midterm**                                  |       |      |        |
 | 17th March    | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)  |       |      |        |
@@ -52,6 +52,6 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 7th  April    | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)         |       |      |        |
 | 18th/21th April    | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)       |       |      |        |
 | 25th/28th April    | AI and Building App                     |       |      |        |
-| 2nd/5th April      | Second half Practice                    |       |      |        |
+| 2nd/5th April      | Second half Recap and Practice          |       |      |        |
 | 9th/12th May       | Final Preparation                       |       |      |        |
 
