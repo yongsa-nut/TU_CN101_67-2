@@ -38,7 +38,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
-| 20th January  | Introduction + Input/Output/Process          |       |      |        |
+| 20th January  | Introduction + Input/Output/Process          | [Link](https://colab.research.google.com/github/yongsa-nut/TU_CN101_672/blob/main/Input_Output_Lab.ipynb)    |      |        |
 | 27th January  | Input/Output/Process + Decision Structures   |       |      |        |
 | 3rd February  | Decision Structures                          |       |      |        |
 | 10th February | Repetition Structures                        |       |      |        |
