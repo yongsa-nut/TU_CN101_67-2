@@ -38,19 +38,19 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
-| 20th January  | Introduction + Input/Output/Process          | [Link](https://colab.research.google.com/github/yongsa-nut/TU_CN101_672/blob/main/Input_Output_Lab.ipynb)    |      |        |
-| 27th January  | Input/Output/Process + Decision Structures   |       |      |        |
-| 3rd February  | Decision Structures                          |       |      |        |
-| 10th February | Repetition Structures                        |       |      |        |
-| 17th February | Repetition Structures and Lists              |       |      |        |
+| 20th January  | Introduction + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)          | [Link](https://colab.research.google.com/github/yongsa-nut/TU_CN101_672/blob/main/Input_Output_Lab.ipynb)    |      |        |
+| 27th January  | [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) + [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |       |      |        |
+| 3rd February  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |       |      |        |
+| 10th February | [Repetition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)                        |       |      |        |
+| 17th February | [Repetition and List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)     |       |      |        |
 | 24th February | First half Practice                          |       |      |        |
 | 3rd March     | Midterm Preperation                          |       |      |        |
 | 10th March    | **Midterm**                                  |       |      |        |
-| 17th March    | Lists                                        |       |      |        |
-| 24th March    | Function 1                                   |       |      |        |
-| 31st March    | Function 2                                   |       |      |        |
-| 7th  April    | String                                       |       |      |        |
-| 18th/21th April    | Dictionary                              |       |      |        |
+| 17th March    | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)  |       |      |        |
+| 24th March    | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)    |       |      |        |
+| 31st March    | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)    |       |      |        |
+| 7th  April    | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)         |       |      |        |
+| 18th/21th April    | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)       |       |      |        |
 | 25th/28th April    | AI and Building App                     |       |      |        |
 | 2nd/5th April      | Second half Practice                    |       |      |        |
 | 9th/12th May       | Final Preparation                       |       |      |        |
