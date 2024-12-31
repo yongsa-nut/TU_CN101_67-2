@@ -43,13 +43,15 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 3rd February  | Decision Structures                          |       |      |        |
 | 10th February | Repetition Structures                        |       |      |        |
 | 17th February | Repetition Structures and Lists              |       |      |        |
-| 24th February | Recap Practice                               |       |      |        |
+| 24th February | First half Practice                          |       |      |        |
 | 3rd March     | Midterm Preperation                          |       |      |        |
 | 10th March    | **Midterm**                                  |       |      |        |
-
-
-
-
-
-
+| 17th March    | Lists                                        |       |      |        |
+| 24th March    | Function 1                                   |       |      |        |
+| 31st March    | Function 2                                   |       |      |        |
+| 7th  April    | String                                       |       |      |        |
+| 18th/21th April    | Dictionary                              |       |      |        |
+| 25th/28th April    | AI and Building App                     |       |      |        |
+| 2nd/5th April      | Second half Practice                    |       |      |        |
+| 9th/12th May       | Final Preparation                       |       |      |        |
 
