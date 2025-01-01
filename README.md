@@ -55,3 +55,6 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 2nd/5th April      | Second half Recap and Practice          | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(TH).ipynb) <br> [Lab (ENG)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(ENG).ipynb)      |      |        |
 | 9th/12th May       | Final Preparation (on paper)                      |       |      |        |
 
+## Previous Semester Courses
+- 66-2: https://github.com/yongsa-nut/TU_CN101_66-2
+- 67-1: https://github.com/yongsa-nut/TU_CN101_67-1
