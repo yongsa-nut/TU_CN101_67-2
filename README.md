@@ -8,7 +8,7 @@ Name: Nutchanon Yongsatianchot (Nut)
 
 email: ynutchan@engr.tu.ac.th
 
-Office hours: TBA. My room is still under renovation.
+Office hours: Monday 13:30 - 16:30 at EGR. 419/2
 
 ## Course Logistics
 
