@@ -54,6 +54,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 25th/28th April    | AI and Building Apps                    |       |      |        |
 | 2nd/5th May      | Second half Recap and Practice          | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(TH).ipynb) <br> [Lab (ENG)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-2/blob/main/Recap_Lab_(ENG).ipynb)      |      |        |
 | 9th/12th May       | Final Preparation (on paper)                      |       |      |        |
+| 16th May           | Final Exam                                        |       |      |        |
 
 ## Previous Semester Courses
 - 66-2: https://github.com/yongsa-nut/TU_CN101_66-2
